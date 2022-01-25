@@ -6,7 +6,7 @@ Olá, Sou Wenderson Santos <img src="https://media.giphy.com/media/12oufCB0MyZ1G
 
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wendersonqsantos&show_icons=true&theme=tokyonight " />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersonqsantos&layout=compact&langs_count=7&theme=dracula"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersonqsantos&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="wenderson-csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
